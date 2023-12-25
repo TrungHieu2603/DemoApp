@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Shop_Ban_Gau_Bong",
+    "slug": "Shop_Ban_Gau_Bong",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/teddyshop.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/teddyshop.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/teddyshop.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/teddyshop.jpg"
+    }
+  }
+}
